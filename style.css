@@ -40,3 +40,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.lista{
+    width:320px;
+    display: flex;
+    background-color: aqua;
+    border-radius: 5px;
+}
+.elementosDaLista{
+    margin: 10px;
+}
